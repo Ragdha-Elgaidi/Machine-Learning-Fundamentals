@@ -1,0 +1,11 @@
+- Domain - what field or area a person plans to use machine learning.
+-    Data - measure or utilize the information from the domain to solve a problem.
+-    Model - leverages domain and data to build a solution.
+-    Product Phase - a part of the ML lifecycle which connects the end users of the ML models with the builders of the models.
+-    Data Phase - a part of the ML lifecycle which collects and prepares the data for the ML models.
+-    Engineering Phase - a part of the ML lifecycle which comprises of the building and organizing of the models.
+-    Results Phase - a part of the ML lifecycle which contains the inference part of the model.
+-    Supervised ML - Models trained by inputting features along with target values, in which the model trains to predict.
+-    Unsupervised ML - Models trained to organize data without any target values to influence its decisions.
+-    Regression - A statistical process that estimates values from relationships in a dataset.
+-    Classification - A process that classifies or labels values based on relationships in a dataset.
