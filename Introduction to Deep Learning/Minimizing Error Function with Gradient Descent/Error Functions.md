@@ -1,0 +1,2 @@
+- An error function is simply a function that measures how far the current state is from the solution.
+- We can calculate the error and then make a change in an attempt to reduce the error—and then repeat this process until we have reduced the error to an acceptable level.
