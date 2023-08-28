@@ -1,0 +1,11 @@
+# Training Neural Networks
+   - Training Data: Data actually used to fit the model
+   - Validation Data: Data used during training to evaluate generalization
+   - Test Data: Data used to evaluate the final model
+   - Underfitting (also called error due to bias): Underfitting means that our model is too simplistic because of a poor fit between our model, and the data because we have oversimplified the problem.
+   - Overfitting (also called error due to variance): Overfitting means that our model is too complicated, and the fit between our model and the training data is too specific—the model will perform very well on the training data but will fail to generalize to new data.
+   - Early Stopping: Implementing gradient descent until the testing error stops decreasing and starts to increase.
+   - Dropout: The process of turning part of the network off and letting the rest of the network train
+   - Local Minima: solutions where the error is at the lowest point in the local area, but not the lowest point overall.
+   - Momentum: Momentum is a constant ββ between 00 and 11.
+  -  Stochastic gradient descent: The process of taking small subsets of the data and running them through the neural network, calculating the gradient of the error function based on these points, and moving one step in that direction.
