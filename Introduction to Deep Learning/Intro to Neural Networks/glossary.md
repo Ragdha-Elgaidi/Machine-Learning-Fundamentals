@@ -1,0 +1,10 @@
+   - Neural Networks are defined by having one or more hidden layers and an output layer that emits a decision -- either a predicted value, a probability, or a vector of probabilities, depending on the task.
+   - Neural Networks Layers:
+       - The first layer is called the input layer, which contains the inputs.
+       - The next layer is called the hidden layer, which is the set of linear models created with the input layer.
+       - The final layer is called the output layer, which is where the linear models get combined to obtain a nonlinear model.
+   - Neural Network Nodes:
+       - Input nodes. In general, if we have nn nodes in the input layer, then we are modeling data in n-dimensional space (e.g., 3 nodes in the input layer means we are modeling data in 3-dimensional space).
+       - Output nodes. If there are more nodes in the output layer, this simply means we have more outputs—for example, we may have a multiclass classification model.
+       - Layers. If there are more layers then we have a deep neural network. Our linear models combine to create nonlinear models, which then combine to create even more nonlinear models!
+   - Feedforward is the process neural networks use to turn the input into an output.
